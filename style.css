@@ -19,8 +19,10 @@ li{
     font-weight:500;
     
 }
-li a{
+.page{
     color: #0654ba;
+    text-decoration: underline;
+    cursor: pointer;
 }
 .items-right{
     /* padding-top: -100px; */
